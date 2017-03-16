@@ -1,0 +1,2 @@
+The plots for the second run are smoother, there are less random peaks.
+The smoothing line is smaller indicating less uncertainty
